@@ -1,6 +1,6 @@
 ### Hello world, I am Nide ✌
 
-I am a passionate, persistent, open-minded full-stack web developer from Kigali, Rwanda who enjoys learning and using newest technologies.
+> I am a passionate, persistent, open-minded full-stack web developer from Kigali, Rwanda who enjoys learning and using newest technologies.
 
 ### About Me
 
@@ -16,7 +16,7 @@ const nide = {
 }
 ``` 
 
-() ->  [Get my Resume](https://github.com/Nide17/Nide17/files/7738432/Niyomwungeri.Dev.Resume.17.12.2021.pdf)
+[() -> Get my Resume](https://github.com/Nide17/Nide17/files/7738432/Niyomwungeri.Dev.Resume.17.12.2021.pdf)
 
 ### My Projects
 
