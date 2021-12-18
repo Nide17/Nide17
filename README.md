@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hello world, I am Nide ✌
 
-<!--
-**Nide17/Nide17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate, persistent, open-minded full-stack web developer from Kigali, Rwanda who enjoys learning and using newest technologies.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+const nide = {
+  "Names" : "Niyomwungeri Parmenide Ishimwe",
+  "Languages" : ["English", "Kinyarwanda", "French"],
+  "Skills" : ["HTML5 & CSS3", "Bootstrap", "JavaScript", "React & Redux", "Next.js", "Express.js", "Node.js", "PostgreSQL", "MongoDB", "Python/Flask"],
+  "Currently-learning" : ["TypeScript", "Next.js", "GraphQL", "Sequelize"],
+  "Currently-working-on" : "my portfolio using Next.js",
+  "Quotes" : ["No pain no gain", "Hard work pays off"],
+  "Hobbies": ["Soccer", "Music"]
+}
+``` 
+
+### My Projects
+
+0️⃣ [Elysium Group Ltd website](https://www.elysiumgroupltd.com)
+
+1️⃣ [Okaziyo](https://www.okaziyo.com)
+
+2️⃣ [Quiz Blog Rwanda](http://www.quizblog.rw)
+
+3️⃣ [Hortiprice](http://hortiprice.herokuapp.com)
+
+4️⃣ [PayPal clone](http://paypal2.herokuapp.com)
+
+### Contact Me
+
+- **💌 [nidedrogba@gmail.com](nidedrogba@gmail.com)**
+- **📱 [+250788551997](+250788551997)**
+- **🌎 [LinkedIn](https://www.linkedin.com/in/niyomwungeri-parmenide-ishimwe-1a5394123/)**
