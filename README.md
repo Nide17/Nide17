@@ -16,7 +16,7 @@ const nide = {
 }
 ``` 
 
-- [Get my Resume](https://github.com/Nide17/Nide17/files/7738432/Niyomwungeri.Dev.Resume.17.12.2021.pdf)
+() ->  [Get my Resume](https://github.com/Nide17/Nide17/files/7738432/Niyomwungeri.Dev.Resume.17.12.2021.pdf)
 
 ### My Projects
 
@@ -32,9 +32,9 @@ const nide = {
 
 ### Contact Me
 
-- **💌 [nidedrogba@gmail.com](nidedrogba@gmail.com)**
-- **📱 [+250788551997](+250788551997)**
-- **🌎 [LinkedIn](https://www.linkedin.com/in/niyomwungeri-parmenide-ishimwe-1a5394123/)**
+**💌 [nidedrogba@gmail.com](nidedrogba@gmail.com)**
+**📱 [+250788551997](+250788551997)**
+**🌎 [LinkedIn](https://www.linkedin.com/in/niyomwungeri-parmenide-ishimwe-1a5394123/)**
 
 ### My Stats
 
