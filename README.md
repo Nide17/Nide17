@@ -1,6 +1,6 @@
 ### Hello world, I am Nide ✌
 
-> I am a passionate, persistent, open-minded full-stack web developer from Kigali, Rwanda who enjoys learning and using newest technologies.
+> *I am a passionate, persistent, open-minded full-stack web developer from Kigali, Rwanda who enjoys learning and using newest technologies.*
 
 ### About Me
 
