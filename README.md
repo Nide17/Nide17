@@ -9,8 +9,8 @@ const nide = {
   "Names" : "Niyomwungeri Parmenide Ishimwe",
   "Languages" : ["English", "Kinyarwanda", "French"],
   "Skills" : ["HTML5 & CSS3", "Bootstrap", "JavaScript", "React & Redux", "Next.js", "Express.js", "Node.js", "PostgreSQL", "MongoDB", "Python/Flask"],
-  "Currently-learning" : ["TypeScript", "Next.js", "GraphQL", "Sequelize"],
-  "Currently-working-on" : "my portfolio using Next.js",
+  "Currently-learning" : ["Java", "Flutter", "GraphQL", "Spring"],
+  "Currently-working-on" : "assignments at CMU-Africa 😂",
   "Quotes" : ["No pain no gain", "Hard work pays off"],
   "Hobbies": ["Soccer", "Music"]
 }
@@ -20,15 +20,17 @@ const nide = {
 
 ### My Projects
 
-0️⃣ [Elysium Group Ltd website](https://www.elysiumgroupltd.com)
+0️⃣ [Quiz Blog Rwanda](http://www.quizblog.rw)
 
-1️⃣ [Okaziyo](https://www.okaziyo.com)
+1️⃣ [Elysium Group Ltd website](https://www.elysiumgroup.org) 
 
-2️⃣ [Quiz Blog Rwanda](http://www.quizblog.rw)
+2️⃣ [Okaziyo](https://www.okaziyo.com)
 
-3️⃣ [Hortiprice](http://hortiprice.herokuapp.com)
+3️⃣ [J-tech](https://j-tech.vercel.app)
 
-4️⃣ [PayPal clone](http://paypal2.herokuapp.com)
+4️⃣ [Hortiprice](http://hortiprice.herokuapp.com) 
+
+5️⃣ [PayPal clone](http://paypal2.herokuapp.com)
 
 ### Contact Me
 
