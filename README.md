@@ -10,7 +10,7 @@ const nide = {
   "Languages" : ["English", "Kinyarwanda", "French"],
   "Skills" : ["HTML5 & CSS3", "Bootstrap", "JavaScript", "React & Redux", "Next.js", "Express.js", "Node.js", "PostgreSQL", "MongoDB", "Python/Flask"],
   "Currently-learning" : ["Java", "Flutter", "GraphQL", "Spring"],
-  "Currently-working-on" : "assignments at CMU-Africa 😂",
+  "Currently-working-on" : "Assignments at CMU-Africa 😂",
   "Quotes" : ["No pain no gain", "Hard work pays off"],
   "Hobbies": ["Soccer", "Music"]
 }
