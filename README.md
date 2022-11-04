@@ -1,6 +1,6 @@
 ### Hello world, I am Nide ✌
 
-> *I am a passionate, persistent, open-minded full-stack web developer from Kigali, Rwanda who enjoys learning and using newest technologies.*
+> *I am a passionate full-stack software engineer from Kigali, Rwanda who enjoys learning and using new technologies.*
 
 ### About Me
 
@@ -9,7 +9,7 @@ const nide = {
   "Names" : "Niyomwungeri Parmenide Ishimwe",
   "Languages" : ["English", "Kinyarwanda", "French"],
   "Skills" : ["HTML5 & CSS3", "Bootstrap", "JavaScript", "React & Redux", "Next.js", "Express.js", "Node.js", "PostgreSQL", "MongoDB", "Python/Flask"],
-  "Currently-learning" : ["Java", "Flutter", "GraphQL", "Spring"],
+  "Currently-learning" : ["Java", "Flutter", "GraphQL", "Spring", "Machine Learning", "Linux"],
   "Currently-working-on" : "Assignments at CMU-Africa 😂",
   "Quotes" : ["No pain no gain", "Hard work pays off"],
   "Hobbies": ["Soccer", "Music"]
