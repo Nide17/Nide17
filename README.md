@@ -48,5 +48,4 @@ const nide = {
 
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nide17&theme=tokyonight)
 
-
-() -> Get my Resume](https://drive.google.com/file/d/1QHX0Z8u_jNafOdDR2OiXHDiIweSRVo-T/view?usp=sharing)
+[() -> Get my Resume](https://drive.google.com/file/d/1QHX0Z8u_jNafOdDR2OiXHDiIweSRVo-T/view?usp=sharing)
