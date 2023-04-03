@@ -1,6 +1,6 @@
 ### Hello world, I am Nide ✌
 
-> *I am a passionate full-stack software engineer from Kigali, Rwanda who enjoys learning and using new technologies.*
+> *I am a passionate software engineer from Kigali, Rwanda who enjoys learning and exploring new technologies.*
 
 ### About Me
 
@@ -8,29 +8,31 @@
 const nide = {
   "Names" : "Niyomwungeri Parmenide Ishimwe",
   "Languages" : ["English", "Kinyarwanda", "French"],
-  "Skills" : ["HTML5 & CSS3", "Bootstrap", "JavaScript", "React & Redux", "Next.js", "Express.js", "Node.js", "PostgreSQL", "MongoDB", "Python/Flask"],
-  "Currently-learning" : ["Java", "Flutter", "GraphQL", "Spring", "Machine Learning", "Linux"],
+  "Programming": ["Java", "JavaScript", "Python", "C", "C++", "HTML/CSS", "Linux Bash"],
+  "Frameworks": ["Bootstrap", "React", "Next.js", "Express.js", "Node.js", "Flask", "Django"],
+  "Databases": ["MySQL", "PostgreSQL", "MongoDB"],
+  "Currently-learning" : ["NestJS", "Flutter", "GraphQL", "Spring", "Machine Learning"],
   "Currently-working-on" : "Assignments at CMU-Africa 😂",
   "Quotes" : ["No pain no gain", "Hard work pays off"],
   "Hobbies": ["Soccer", "Music"]
 }
 ``` 
 
-[() -> Get my Resume](https://github.com/Nide17/Nide17/files/7738432/Niyomwungeri.Dev.Resume.17.12.2021.pdf)
+[() -> Get my Resume](https://drive.google.com/file/d/1QHX0Z8u_jNafOdDR2OiXHDiIweSRVo-T/view?usp=sharing)
 
 ### My Projects
 
-0️⃣ [Quiz Blog Rwanda](http://www.quizblog.rw)
+0️⃣ [Portfolio](https://www.parmenide.me/)
 
-1️⃣ [Elysium Group Ltd website](https://www.elysiumgroup.org) 
+1️⃣ [Quiz Blog Rwanda](https://www.quizblog.rw/)
 
-2️⃣ [Okaziyo](https://www.okaziyo.com)
+2️⃣ [Elysium Group Ltd website](https://www.elysiumgroup.org) 
 
-3️⃣ [J-tech](https://j-tech.vercel.app)
+3️⃣ [Okaziyo](https://www.okaziyo.com)
 
-4️⃣ [Hortiprice](http://hortiprice.herokuapp.com) 
+4️⃣ [J-tech](https://j-tech.vercel.app)
 
-5️⃣ [PayPal clone](http://paypal2.herokuapp.com)
+5️⃣ [Hortiprice](https://github.com/Nide17/hortiprice) 
 
 ### Contact Me
 
@@ -47,5 +49,4 @@ const nide = {
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nide17&langs_count=5&theme=tokyonight)]()
 
 
-[() -> Get my Resume](https://github.com/Nide17/Nide17/files/7738432/Niyomwungeri.Dev.Resume.17.12.2021.pdf)
-
+[() -> Get my Resume](https://drive.google.com/file/d/1QHX0Z8u_jNafOdDR2OiXHDiIweSRVo-T/view?usp=sharing)
