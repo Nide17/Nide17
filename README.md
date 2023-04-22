@@ -8,7 +8,7 @@
 const nide = {
   "Names" : "Niyomwungeri Parmenide Ishimwe",
   "Languages" : ["English", "Kinyarwanda", "French"],
-  "Programming": ["Java", "JavaScript", "Python", "C", "C++", "HTML/CSS", "Linux Bash"],
+  "Programming": ["JavaScript", "Java", "Python", "C", "C++", "HTML/CSS", "Linux Bash"],
   "Frameworks": ["Bootstrap", "React", "Next.js", "Express.js", "Node.js", "Flask", "Django"],
   "Databases": ["MySQL", "PostgreSQL", "MongoDB"],
   "Currently-learning" : ["NestJS", "Flutter", "GraphQL", "Spring", "Machine Learning"],
