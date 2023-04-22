@@ -30,9 +30,11 @@ const nide = {
 
 3️⃣ [Okaziyo](https://www.okaziyo.com)
 
-4️⃣ [J-tech](https://j-tech.vercel.app)
+4️⃣ [ToDoPlanna](https://www.todoplanna.live/)
 
-5️⃣ [Hortiprice](https://github.com/Nide17/hortiprice) 
+5️⃣ [J-tech](https://j-tech.vercel.app)
+
+6️⃣ [Hortiprice](https://github.com/Nide17/hortiprice) 
 
 ### Contact Me
 
