@@ -9,9 +9,9 @@ const nide = {
   "Names" : "Niyomwungeri Parmenide Ishimwe",
   "Languages" : ["English", "Kinyarwanda", "French"],
   "Programming": ["JavaScript", "Java", "Python", "C", "C++", "HTML/CSS", "Linux Bash"],
-  "Frameworks": ["Bootstrap", "React", "Next.js", "Express.js", "Node.js", "Flask", "Django"],
+  "Frameworks": ["Bootstrap", "React", "Next.js", "Express.js", "Node.js", "NestJS", "Flutter", "Flask", "Django"],
   "Databases": ["MySQL", "PostgreSQL", "MongoDB"],
-  "Currently-learning" : ["NestJS", "Flutter", "GraphQL", "Spring", "Machine Learning"],
+  "Currently-learning" : ["TailWind CSS", "NestJS", "Dart", "Flutter", "Spring Boot", "GraphQL", "Machine Learning"],
   "Currently-working-on" : "Assignments at CMU-Africa 😂",
   "Quotes" : ["No pain no gain", "Hard work pays off"],
   "Hobbies": ["Soccer", "Music"]
