@@ -28,13 +28,15 @@ const nide = {
 
 2️⃣ [Elysium Group Ltd website](https://www.elysiumgroup.org) 
 
-3️⃣ [Okaziyo](https://www.okaziyo.com)
+3️⃣ [Okaziyo](https://okaziyo.netlify.app/)
 
 4️⃣ [ToDoPlanna](https://www.todoplanna.live/)
 
-5️⃣ [J-tech](https://j-tech.vercel.app)
+5️⃣ [Irembo UACM](https://irembo-user-acc-mgt.vercel.app/)
 
-6️⃣ [Hortiprice](https://github.com/Nide17/hortiprice) 
+6️⃣ [J-tech](https://j-tech.vercel.app)
+
+7️⃣ [Hortiprice](https://github.com/Nide17/hortiprice) 
 
 ### Contact Me
 
