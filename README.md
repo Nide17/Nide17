@@ -9,10 +9,10 @@ const nide = {
   "Names" : "Niyomwungeri Parmenide Ishimwe",
   "Languages" : ["English", "Kinyarwanda", "French"],
   "Programming": ["JavaScript", "Java", "Python", "C", "C++", "HTML/CSS", "Linux Bash"],
-  "Frameworks": ["Bootstrap", "React", "Next.js", "Express.js", "Node.js", "NestJS", "Flutter", "Flask", "Django"],
-  "Databases": ["MySQL", "PostgreSQL", "MongoDB"],
+  "Frameworks": ["React", "Next.js", "Node.js", "Express.js", "NestJS", "Flutter", "Flask", "Django", "Bootstrap", "Tailwind"],
+  "Databases": ["PostgreSQL", "MySQL", "MongoDB"],
   "Currently-learning" : ["Dart", "Flutter", "TailWind CSS", "NestJS", "Spring Boot", "GraphQL", "Machine Learning"],
-  "Currently-working-on" : "Assignments at CMU-Africa 😂",
+  "Currently-working-on": "Assignments at CMU-Africa 😂",
   "Quotes" : ["Hard work pays off"],
   "Hobbies": ["Soccer", "Music"]
 }
@@ -30,13 +30,13 @@ const nide = {
 
 3️⃣ [Okaziyo](https://okaziyo.netlify.app/)
 
-4️⃣ [ToDoPlanna](https://www.todoplanna.live/)
+4️⃣ [Auto Ecole](https://www.todoplanna.live/)
 
-5️⃣ [Irembo UACM](https://irembo-user-acc-mgt.vercel.app/)
+5️⃣ [ToDoPlanna](https://www.todoplanna.live/)
 
-6️⃣ [J-tech](https://j-tech.vercel.app)
+6️⃣ [Irembo UACM](https://irembo-user-acc-mgt.vercel.app/)
 
-7️⃣ [Hortiprice](https://github.com/Nide17/hortiprice) 
+7️⃣ [J-tech](https://j-tech.vercel.app)
 
 ### Contact Me
 
