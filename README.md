@@ -9,7 +9,7 @@ const nide = {
   "Names" : "Niyomwungeri Parmenide Ishimwe",
   "Languages" : ["English", "Kinyarwanda", "French"],
   "Programming": ["JavaScript", "Java", "Python", "C", "C++", "HTML/CSS", "Linux Bash"],
-  "Frameworks": ["React", "Next.js", "Node.js", "Express.js", "NestJS", "Flutter", "Flask", "Django", "Bootstrap", "Tailwind"],
+  "I am using": ["React", "Next.js", "Node.js", "Express.js", "NestJS", "Flutter", "Flask", "Django", "Bootstrap", "Tailwind"],
   "Databases": ["PostgreSQL", "MySQL", "MongoDB"],
   "Currently-learning" : ["Dart", "Flutter", "TailWind CSS", "NestJS", "Spring Boot", "GraphQL", "Machine Learning"],
   "Currently-working-on": "Assignments at CMU-Africa 😂",
