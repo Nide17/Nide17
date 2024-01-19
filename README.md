@@ -11,7 +11,7 @@ const nide = {
   "Programming": ["JavaScript", "Java", "Python", "C", "C++", "HTML/CSS", "Linux Bash"],
   "I am using": ["React", "Next.js", "Node.js", "Express.js", "NestJS", "Flutter", "Flask", "Django", "Bootstrap", "Tailwind"],
   "Databases": ["PostgreSQL", "MySQL", "MongoDB"],
-  "Currently-learning" : ["Dart", "Flutter", "TailWind CSS", "NestJS", "Spring Boot", "GraphQL", "Machine Learning"],
+  "Currently-learning" : ["Dart", "Flutter", "TailWind CSS", "Spring Boot", "TypeScript", "Data Analytics"],
   "Currently-working-on": "Assignments at CMU-Africa 😂",
   "Quotes" : ["Hard work pays off"],
   "Hobbies": ["Soccer", "Music"]
