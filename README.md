@@ -1,6 +1,6 @@
 ### Hello world, I am Nide ✌
 
-> *A assionate software engineer from Kigali, Rwanda who enjoys learning and exploring new technologies.*
+> *A passionate software engineer from Kigali, Rwanda who enjoys learning and exploring new technologies.*
 
 ### About Me
 
