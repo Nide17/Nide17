@@ -1,42 +1,38 @@
 ### Hello world, I am Nide ✌
 
-> *I am a passionate software engineer from Kigali, Rwanda who enjoys learning and exploring new technologies.*
+> *A assionate software engineer from Kigali, Rwanda who enjoys learning and exploring new technologies.*
 
 ### About Me
 
 ```
 const nide = {
   "Names" : "Niyomwungeri Parmenide Ishimwe",
-  "Languages" : ["English", "Kinyarwanda", "French"],
+  "Languages" : ["English", "French"],
   "Programming": ["JavaScript", "Java", "Python", "C", "C++", "HTML/CSS", "Linux Bash"],
   "I am using": ["React", "Next.js", "Node.js", "Express.js", "NestJS", "Flutter", "Flask", "Django", "Bootstrap", "Tailwind"],
   "Databases": ["PostgreSQL", "MySQL", "MongoDB"],
   "Currently-learning" : ["Dart", "Flutter", "TailWind CSS", "Spring Boot", "TypeScript", "Data Analytics"],
-  "Currently-working-on": "Assignments at CMU-Africa 😂",
+  "Currently-working-on": "DPI Engine in C under Linux",
   "Quotes" : ["Hard work pays off"],
   "Hobbies": ["Soccer", "Music"]
 }
 ``` 
 
-[() -> Get my Resume](https://drive.google.com/file/d/1QHX0Z8u_jNafOdDR2OiXHDiIweSRVo-T/view?usp=sharing)
+[() -> Get my Resume](https://res.cloudinary.com/demsylp8d/image/upload/v1722165260/portfolio/resume/Front.pdf)
 
 ### My Projects
 
-0️⃣ [Portfolio](https://www.parmenide.me/)
+[Portfolio](https://www.parmenide.me/)
 
-1️⃣ [Quiz Blog Rwanda](https://www.quizblog.rw/)
+[Quiz Blog Rwanda](https://www.quizblog.rw/)
 
-2️⃣ [Elysium Group Ltd website](https://www.elysiumgroup.org) 
+[Elysium Group Ltd website](https://www.elysiumgroup.org) 
 
-3️⃣ [Okaziyo](https://okaziyo.netlify.app/)
+[ToDoPlanna](https://www.todoplanna.live/)
 
-4️⃣ [Auto Ecole](https://www.todoplanna.live/)
+[Irembo UACM](https://irembo-user-acc-mgt.vercel.app/)
 
-5️⃣ [ToDoPlanna](https://www.todoplanna.live/)
-
-6️⃣ [Irembo UACM](https://irembo-user-acc-mgt.vercel.app/)
-
-7️⃣ [J-tech](https://j-tech.vercel.app)
+[J-tech](https://j-tech.vercel.app)
 
 ### Contact Me
 
