@@ -20,7 +20,7 @@ const nide = {
 
 [() -> Get my Resume](https://res.cloudinary.com/demsylp8d/image/upload/v1722165260/portfolio/resume/Front.pdf)
 
-### My Projects
+### Notable Projects
 
 [Portfolio](https://www.parmenide.me/)
 
