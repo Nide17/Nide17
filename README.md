@@ -1,17 +1,17 @@
 ### Hello world, I am Nide ✌
 
-> *A passionate software engineer from Kigali, Rwanda who enjoys learning and exploring new technologies.*
+> *A passionate software developer from Kigali, Rwanda who enjoys learning and exploring new technologies.*
 
 ### About Me
 
 ```
 const nide = {
-  "Names" : "Niyomwungeri Parmenide Ishimwe",
+  "Name" : "Niyomwungeri Parmenide Ishimwe",
   "Languages" : ["English", "French"],
-  "Programming": ["JavaScript", "Java", "Python", "C", "C++", "HTML/CSS", "Linux Bash"],
-  "I am using": ["React", "Next.js", "Node.js", "Express.js", "NestJS", "Flutter", "Flask", "Django", "Bootstrap", "Tailwind"],
+  "Programming": ["C", "JavaScript", "Java", "Python", "C++", "Go", "Linux Bash"],
+  "I am using": ["Node.js", "Express.js", "NestJS", "React", "Next.js", "Flutter", "Flask", "Django", "Bootstrap", "Tailwind"],
   "Databases": ["PostgreSQL", "MySQL", "MongoDB"],
-  "Currently-learning" : ["Dart", "Flutter", "TailWind CSS", "Spring Boot", "TypeScript", "Data Analytics"],
+  "Currently-learning" : ["Dart", "Flutter", "TailWind CSS", "Spring Boot", "TypeScript", "Go", "Data Analytics"],
   "Currently-working-on": "DPI Engine in C under Linux",
   "Quotes" : ["Hard work pays off"],
   "Hobbies": ["Soccer", "Music"]
